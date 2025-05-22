@@ -1,1 +1,1 @@
-This repository contains all the work done by Shashank Mishra, Software Development Intern at Innodeed Systems Pvt. Ltd. 
+This repository contains all the work done by Shashank Mishra, SDE Intern at Innodeed Systems Pvt. Ltd. 
