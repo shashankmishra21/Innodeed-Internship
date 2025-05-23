@@ -1,0 +1,1 @@
+This is a simple React Single Page Application (SPA) that demonstrates basic routing using React Router. It includes navigation links for different class materials and handles unknown routes with a custom error page.
